@@ -1,0 +1,1 @@
+This is a simple python script related to a project that I had for a course named "Anomaly Detection". It implements the Generalized Isolation Forest algorithm and tests it on the dataset mammography.mat ! Other datasets that I used for the project can be found in this rep.
